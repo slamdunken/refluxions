@@ -13,3 +13,12 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	Creating and labeling branches of different versions of your code allows parallel development to proceed at differing schedules, allows simple experimentation and far better collaboration.
+
+How do the diagrams help you visualize the branch structure?
+
+	By giving a visual representations of Git's branching structures
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	All additions and deletions between branches that are non-conflicting are incorporated into the single merged branch.  The converged braches represent the point in time where the formerally seperate branches were merged.
+
