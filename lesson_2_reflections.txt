@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git creates the meta file structure that allows it to track the directory's file history.  The init commands tells Git where your new repository is.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area offers am intermediate stage where single or multiple files can be verified and changed before making a single commit.
