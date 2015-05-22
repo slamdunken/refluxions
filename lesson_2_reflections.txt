@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	All additions and deletions between branches that are non-conflicting are incorporated into the single merged branch.  The converged braches represent the point in time where the formerally seperate branches were merged.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging clearly can save a great deal of time and work vs. manual merges.
+
